@@ -1,3 +1,5 @@
+
+# Follow : http://wiki.openelec.tv/index.php/Guide_to_add_your_own_remote
 0xd2199a KEY_NUMERIC_0
 0xd21991 KEY_NUMERIC_1
 0xd21992 KEY_NUMERIC_2
